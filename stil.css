@@ -1721,7 +1721,7 @@ url('https://files.jcink.net/uploads/ninelie/fonts/casa_regular_webfont.woff') f
 #NMLIES-2 { --accentColor:#997c54;--accentColor2:#4B5742;--accentRGBA:153,124,84; }
 #NMLIES-2 .nmlies-img, #NMLIES-2 .nmlies-img-dark { background-image:url(https://i.ibb.co/sy1pkWF/Zhongli-Templte.png);margin-left:-245px; }
 #NMLIES-2 .nmlies-color { width:250px;background:linear-gradient(to bottom,#997c54,#4B5742); }
-#NMLIES-2 .nmlies-name div { background:linear-gradient(to bottom,#997c54,#4B5742);background-clip: text;-webkit-background-clip: text;color: transparent; }
+#NMLIES-2 .nmlies-name div { background:linear-gradient(to bottom,#997c54,#4B5742);background-clip: text;-webkit-background-clip: text;color:rgb(145, 145, 145); }
 #nmlies-tab2:target ~ #NMLIES-2 .nmlies-color { margin-left:0px!important;opacity:1!important;pointer-events:auto;transition-delay:.5s; }
 #nmlies-tab2:target ~ #NMLIES-2 .nmlies-img, #nmlies-tab2:target ~ #NMLIES-2 .nmlies-img-dark { margin-top:-20px!important;opacity:1!important;pointer-events:auto;transition-delay:.5s; }
 #nmlies-tab2:target ~ #NMLIES-2 .nmlies-name { width:608px;opacity:1!important;pointer-events:auto;transition-delay:.5s; }
